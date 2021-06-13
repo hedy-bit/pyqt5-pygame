@@ -1,0 +1,10 @@
+dependencies:
+  - python=3
+  - pip:
+    - pyqt5	
+    - pygame
+    - qtawesome
+    - numpy
+    - mutagen
+    - random
+    - requests
