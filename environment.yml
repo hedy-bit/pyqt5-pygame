@@ -1,11 +1,7 @@
 dependencies:
   - python=3
   - pip:
-    - spacy
-    - ipykernel
-    - scipy
-    - numpy
-    - scikit-learn
-    - matplotlib
-    - pandas
-    - thinc
+    - pygame
+    - pyqt5
+    - threading
+
