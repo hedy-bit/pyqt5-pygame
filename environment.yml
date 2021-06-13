@@ -3,5 +3,4 @@ dependencies:
   - pip:
     - pygame
     - pyqt5
-    - threading
 
